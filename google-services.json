@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "291215475883",
+    "project_id": "photojournal-a784e",
+    "storage_bucket": "photojournal-a784e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291215475883:android:376a4f72d2b45b7a99e3ee",
+        "android_client_info": {
+          "package_name": "com.mikemac15.jamies_journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291215475883-cfl96db3o3m6v61vi9sv59i60akb5q8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8tXppix5q1_2xFcdognpVdyAxYkEu1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291215475883-cfl96db3o3m6v61vi9sv59i60akb5q8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291215475883-qauh32tjga2qlive148kt17nrrq8efmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mikemac15.jamies-journal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

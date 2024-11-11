@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>291215475883-qauh32tjga2qlive148kt17nrrq8efmc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.291215475883-qauh32tjga2qlive148kt17nrrq8efmc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVFrB_7HMBe0G_79vhnMn3zPT_Y8HkkhM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>291215475883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mikemac15.jamies-journal</string>
+	<key>PROJECT_ID</key>
+	<string>photojournal-a784e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photojournal-a784e.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:291215475883:ios:08d00dfe54cc547d99e3ee</string>
+</dict>
+</plist>
